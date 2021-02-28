@@ -1,7 +1,6 @@
 ### Le saluda José Luis Laica, 👋
 
-
-
+![Alt Text]https://github.com/jlaica/jlaica/blob/main/joselaica.gif
 
 Vivo en Guayaquil, Ecuador
 
