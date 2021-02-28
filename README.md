@@ -1,4 +1,4 @@
-### Le saluda José Luis Laica, 👋
+### Saludos 👋
 
 ![Alt Text](https://github.com/jlaica/jlaica/blob/main/joselaica.gif)
 
