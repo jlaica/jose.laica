@@ -2,9 +2,9 @@
 
 Vivo en Guayaquil, Ecuador
 
-Soy parte de la comunidad funpythonEC. Soy desarrollador de hardware y entusiasta a la programación con python.Contribuyente a la divulgación de micropyton, python para microcontroladores en Ecuador y America Latina. 
-
-Me gusta compartir, conocer personas e interactuar con comunidades de desarrollo. 
+Soy desarrollador de hardware y fan de kicad, entusiasta a la programación con python.
+Contribuyente a la divulgación de micropyton, python para microcontroladores en Ecuador y America Latina.
+Miembro de la comunidad FunPythonEC, me gusta compartir experiencias de desarrollo, conocer personas e interactuar con comunidades. 
 
 <!--
 **jlaica/jlaica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
