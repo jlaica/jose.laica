@@ -4,8 +4,7 @@
 
 Vivo en Guayaquil, Ecuador
 
->>> Miembro de la comunidad FunPythonEC, me gusta compartir experiencias de desarrollo, conocer personas e interactuar con comunidades. 
-Soy desarrollador electrónico y fan de [***kicad***](https://www.kicad.org/), entusiasta a la programación con [***python***](https://www.python.org/). Contribuyente a la divulgación de [***MicroPython***](http://micropython.org/), python para microcontroladores, en Ecuador y America Latina.
+>>> Miembro de la comunidad [***Funpython***](https://funpython.org/), me gusta compartir experiencias de desarrollo, conocer personas e interactuar con comunidades.Soy diseñador de sistemas electrónicos embebidos con ESP32, fan de [***kicad***](https://www.kicad.org/), entusiasta a la programación con [***python***](https://www.python.org/). Contribuyente a la creación y divulgación de contenido con [***MicroPython***](http://micropython.org/), python para microcontroladores, en Ecuador y America Latina.
 
 Guia gráfica de MicroPython en: [Instagram](https://www.instagram.com/joselaica.code.pcb/).
 
