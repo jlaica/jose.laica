@@ -12,7 +12,7 @@ Hardware:
 
 Simulando circuitos en kicad
 
-555 modo astable [click](https://github.com/jlaica/555-modo-astable)
+- [555 modo astable](https://github.com/jlaica/555-modo-astable)
 
 Otras redes sociales.
 [twitter](https://twitter.com/joselaica)
