@@ -14,6 +14,7 @@ Simulando circuitos en kicad
 
 - [555 modo astable](https://github.com/jlaica/555-modo-astable)
 - [555 modo monostable](https://github.com/jlaica/555_monostable)
+- [Circuito divisor de voltaje](https://github.com/jlaica/sim_divisor_voltaje)
 
 Otras redes sociales.
 [twitter](https://twitter.com/joselaica)
