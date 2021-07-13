@@ -16,6 +16,10 @@ MicroPython
 
 - [Charla "MicroPyton: Lenguaje python para Microcontroladores"](https://funpython.org/charla_micropython_regional/)
 
+MicroPython & Raspberry Pi Pico (Edición simulada)
+
+- [Ejemplos MicroPython & Raspberry Pi Pico](https://github.com/jlaica/upy_pi_pico)
+
 Hardware:
 
 Simulando circuitos en kicad
