@@ -21,11 +21,12 @@ MicroPython & Raspberry Pi Pico (Edición simulada)
 Hardware:
 
 Simulando circuitos en kicad
+
+- [Circuito divisor de voltaje](https://github.com/jlaica/sim_divisor_voltaje)
 - [2n3904 amplificador](https://github.com/jlaica/amp_bjt_claseA)
 - [555 modo astable](https://github.com/jlaica/555-modo-astable)
 - [555 modo monostable](https://github.com/jlaica/555_monostable)
-- 
-- [Circuito divisor de voltaje](https://github.com/jlaica/sim_divisor_voltaje)
+
 
 Otras redes sociales.
 [twitter](https://twitter.com/joselaica)
