@@ -12,7 +12,7 @@ Python
 
 MicroPython
 
-- [Charla "MicroPyton: Lenguaje python para Microcontroladores"](https://funpython.org/charla_micropython_regional/)
+- [Charla "MicroPython: Lenguaje python para Microcontroladores"](https://funpython.org/charla_micropython_regional/)
 
 MicroPython & Raspberry Pi Pico (Edición simulada)
 
