@@ -2,7 +2,7 @@
 
 Vivo en Guayaquil, Ecuador
 
->>> Mentor y Conferenciasta Tech. Miembro de la comunidad [***Funpython***](https://funpython.org/), Deseo motivar y compartir experiencias de desarrollo de dispositivos, conocer personas e interactuar con comunidades y la sociedad.Soy fan de [***kicad***](https://www.kicad.org/), entusiasta a la programación con [***python***](https://www.python.org/). Contribuyente a la creación y divulgación de contenido de [***MicroPython***](http://micropython.org/), python para microcontroladores, en Ecuador y América Latina.
+>>> Mentor y Conferenciasta Tech. Miembro de la comunidad [***Funpython***](https://funpython.org/), Deseo motivar y compartir experiencias de desarrollo de dispositivos, conocer personas e interactuar con comunidades y la sociedad.Soy fan de [***kicad***](https://docs.kicad.org/4.0/es/kicad/kicad.html), entusiasta a la programación con [***python***](https://www.python.org/). Contribuyente a la creación y divulgación de contenido de [***MicroPython***](http://micropython.org/), python para microcontroladores, en Ecuador y América Latina.
 
 [Instagram](https://www.instagram.com/joselaica.upy/).
 
