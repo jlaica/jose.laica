@@ -27,4 +27,4 @@ Simulando circuitos en kicad
 
 
 Otras redes sociales.
-[Click para más contenido](beacons.ai/joselaica)
+[Click para más contenido](https://beacons.ai/joselaica)
